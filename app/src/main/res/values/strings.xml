@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EpamLabTrack</string>
+    <string name="app_label">PathTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="current_position">I am here</string>
+    <string name="location_permission">Location Permission Needed</string>
+    <string name="location_permission_text">PathTracker needs the Location permission,
+        please accept to use location functionality</string>
+    <string name="start">Start</string>
+    <string name="clear">Clear</string>
+    <string name="end">End</string>
+</resources>
